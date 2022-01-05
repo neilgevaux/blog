@@ -48,8 +48,6 @@ gem "bootsnap", require: false
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
-gem 'better_errors', '~> 2.9', '>= 2.9.1'
-
 gem 'bulma-rails', '~> 0.9.2'
 
 gem 'simple_form', '~> 5.1'
